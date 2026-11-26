@@ -1,0 +1,43 @@
+PRUEBAS DE EJECUCION - TAREA 7
+
+EJERCICIO 1: PREPARACION DE UNA RECETA
+Entradas:
+Personas: 8
+Arroz para 4 personas: 300
+Carne para 4 personas: 500
+Salsa para 4 personas: 200
+Resultados esperados:
+Arroz: 600.00 gramos
+Carne: 1000.00 gramos
+Salsa: 400.00 mililitros
+
+EJERCICIO 2: COSTO DE IMPRESION
+Entradas:
+Cantidad de afiches: 10
+Precio por afiche: 250
+Cantidad de volantes: 100
+Precio por volante: 15
+Porcentaje de impuesto: 13
+Resultados esperados:
+Costo total de afiches: 2500.00
+Costo total de volantes: 1500.00
+Subtotal: 4000.00
+Monto del impuesto: 520.00
+Total por pagar: 4520.00
+
+EJERCICIO 3: PRESUPUESTO DE UN VIAJE
+Entradas:
+Transporte: 120000
+Hospedaje: 180000
+Alimentacion: 90000
+Participantes: 6
+Dias: 3
+Resultados esperados:
+Costo total del viaje: 390000.00
+Costo del viaje por persona: 65000.00
+Costo diario del grupo: 130000.00
+Costo diario por persona: 21666.67
+
+NOTA:
+Los resultados anteriores son casos de prueba de referencia. Para ejecutarlos,
+se ingresan los datos indicados cuando el programa los solicita.
